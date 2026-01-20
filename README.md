@@ -84,6 +84,8 @@ streamlit run streamlit_2.py
 └── README.md
 ````
 
+---
+
 ## 👨‍💻 Author
 
 **Sagar Chavan**  
