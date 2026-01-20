@@ -63,11 +63,12 @@ A machine learning project that classifies Indian wildlife species from images u
 
 ## 🚀 How to Run
 
-````bash
+```bash
 git clone https://github.com/your-username/indian-wildlife-classification.git
 cd indian-wildlife-classification
 pip install -r requirements.txt
 streamlit run streamlit_2.py
+```
 
 ## 📁 Project Structure
 
@@ -80,7 +81,7 @@ streamlit run streamlit_2.py
 ├── confusion_matrix_heatmap_final.png
 ├── requirements.txt
 └── README.md
-````
+```
 
 ---
 
