@@ -69,8 +69,6 @@ cd indian-wildlife-classification
 pip install -r requirements.txt
 streamlit run streamlit_2.py
 
----
-
 ## 📁 Project Structure
 
 ```text
