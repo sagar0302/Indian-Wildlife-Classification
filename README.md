@@ -41,7 +41,7 @@ A machine learning project that classifies Indian wildlife species from images u
 
 **Confusion Matrix:**
 
-![Confusion Matrix](confusion_matrix_heatmap_final.png)
+![Confusion Matrix](images/confusion_matrix_heatmap_final.png)
 
 ---
 
@@ -63,16 +63,17 @@ A machine learning project that classifies Indian wildlife species from images u
 
 ## 🚀 How to Run
 
-```bash
+````bash
 git clone https://github.com/your-username/indian-wildlife-classification.git
 cd indian-wildlife-classification
 pip install -r requirements.txt
 streamlit run streamlit_2.py
 
-```
+---
 
 ## 📁 Project Structure
 
+```text
 ├── dataset/
 ├── cnn_feature_extractor_resnet_final.h5
 ├── svm_model_resnet_final.joblib
@@ -81,19 +82,9 @@ streamlit run streamlit_2.py
 ├── confusion_matrix_heatmap_final.png
 ├── requirements.txt
 └── README.md
+````
 
----
-
-## 🔒 Small but IMPORTANT GitHub Tips
-
-- Replace `your-username` with your actual GitHub username
-- Do **NOT** commit:
-  - `.env`
-  - dataset if very large
-  - `venv/`
-
-```md
 ## 👨‍💻 Author
 
-**Sagar Chavan**
-```
+**Sagar Chavan**  
+ML & AI Enthusiast
