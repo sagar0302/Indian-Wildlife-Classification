@@ -84,8 +84,3 @@ streamlit run streamlit_2.py
 ```
 
 ---
-
-## 👨‍💻 Author
-
-**Sagar Chavan**  
-ML & AI Enthusiast
